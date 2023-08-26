@@ -1,0 +1,138 @@
+echo "# D" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Danielatamayo2/D.git
+git push -u origin main
+<!-- Menú de navegación del sitio -->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <ul class="navbar">
+
+  <style>
+    body {
+        font-family: Georgia, Cambria, Times, "Times New Roman";
+        background-color: #bcb7e9;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #e91e63;
+        color: white;
+        text-align: center;
+        padding: 1em 0;
+    }  
+    footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #1e9fe9;
+            color: white;
+        }
+        </style>
+ 
+<link rel="stylesheet" href="pagina/Style.css">
+
+<title> Trabajo final HTML </title>
+
+<body>
+<header>
+<P> <h1>  <em> SALSA GENERO MUSICAL </h1> </em> </p>  
+</header>
+ <P> <h2> <em> La salsa es la etiqueta predilecta para referirse al conjunto de géneros musicales bailables resultante de la síntesis del son cubano y otros géneros de la música caribeña como el guaguancó, la guajira, el boogaloo, el mambo, el montuno, la plena, la bomba, el chachachá, la guaracha, la descarga y los géneros estadounidenses como el jazz y el blues. La salsa se consolidó como un éxito comercial por músicos de origen puertorriqueño en la ciudad de Nueva York en la década de 1960, y por la labor de quien fue su principal armador, el dominicano Johnny Pacheco. 3​ 4​
+
+Finalmente, la salsa se extendió a lo largo de Colombia5​ y a toda América Latina, dando lugar a variantes regionales como la cubana, puertorriqueña, panameña, venezolana, dominicana y de otros países de la región. La salsa abarca varios estilos como la salsa dura, la salsa romántica y la timba.
+</em> </h2> </p>
+ <P> <h2> Autores <em> de salsa </h2> </em> </p>
+ <button style="background-color:0981E5;border-color:0FF5C4"> <b> Fruko y sus Tesos </b> <br> <br>
+  <img src="https://th.bing.com/th/id/OIP.D8q1Wcg4YvxezSwH2MqT5AHaHa?pid=ImgDet&rs=1" width="300" height="300"> </button>
+ <button style="background-color:white;border-color:0FF5C4"> <b> Joe Arroyo  </b></br>
+ <img src="https://th.bing.com/th/id/R.1f1ef8d53dafe0498c13693a599a9d8a?rik=QcS9z91uW1Tj4A&pid=ImgRaw&r=0" width="300" height="300"> </button>
+ <button style="background-color:white;border-color:0FF5C4"> <b> Orquesta Guayacán </b> <br> <br>
+ <img src="https://th.bing.com/th/id/OIP.F_Pgs2C7appK_mbfE7NYkgHaHV?pid=ImgDet&rs=1" width="300" height="300"> </button>
+<button  style="background-color:white;border-color:0FF5C4"> <b> Galy Galiano <br>  </b> <br>
+<img src="https://th.bing.com/th/id/OIP.l1CaGjbIQaSMiE4zbbA59gHaE8?pid=ImgDet&rs=1" width="300" height="300">  </button> <br>
+ <button style="background-color:white;border-color:0FF5C4"> <b> Grupo Niche </b> <br> <br>
+ <img src="https://th.bing.com/th/id/R.3bf24fbe636c0b9ad6fe26e28f5369e2?rik=sb%2fAX2CcH4TQWQ&pid=ImgRaw&r=0" width="300" height="300"> </button>
+  <button   style="background-color:white;border-color:0FF5C4"> <b> Eddie Santiago </b> <br> <br>
+ <img src="https://uploads.candelaestereo.com/1/2016/08/k2_items_src_872c3c869f116c6b96d36d3db9fefc58-1200x768.jpg" width="300" height="300"> </button>
+  <button  style="background-color:white;border-color:0FF5C4"> <b>  Héctor Lavoe <br> </b> <br>
+<img src="https://th.bing.com/th/id/R.330ed7a1f23e6265f52787a9fd6d807d?rik=alApKuLSUym8sA&riu=http%3a%2f%2fi.eldiario.com.ec%2ffotos-manabi-ecuador%2f2016%2f09%2f20160930112840_hace-70-aa-os-nacia-ha-ctor-lavoe-a.jpg&ehk=rY1yWWqZgVf5aaWDD%2flnfuPGexvwmHtxewOSTd77jk4%3d&risl=&pid=ImgRaw&r=0" width="300" height="300">   </button>
+  <button  style="background-color:white;border-color:0FF5C4"> <b> Jerry Rivera <br> </b> <br>
+<img src="https://www.lapatilla.com/wp-content/uploads/2020/03/jerry.jpg" width="300" height="300">  </button> <br>
+<button style="background-color:withe;border-color:0FF5C4"> <b>Michel "El Buenón" <BR> </b> <br>
+  <img src="https://th.bing.com/th/id/OIP.mXa2eOLugUO_uKnJupnAhwHaEv?pid=ImgDet&rs=1" width="300" height="300">   </button>
+<button style="background-color:withe;border-color:0FF5C4"> <b> Yiyo Sarante <BR> </b> <br>
+  <img src="https://th.bing.com/th/id/OIP.F7inUwZgC1YI8z1801b9dwHaFM?pid=ImgDet&rs=1" width="300" height="300">   </button>
+ <button  style="background-color:white;border-color:0FF5C4"> <b> Salserín <br> </b> <br>
+<img src="https://th.bing.com/th/id/OIP.cjdJd_ALtX_adt2kUFrlWAHaE8?pid=ImgDet&rs=1" width="300" height="300">  </button>
+ <button   style="background-color:white;border-color:0FF5C4"> <b> Los Adolescentes </b> <br> <br>
+ <img src="https://th.bing.com/th/id/R.bd716aa1446dfb59397acc666c3ed617?rik=%2b52YutuV4Wl%2foQ&riu=http%3a%2f%2fepmghispanic.media.clients.ellingtoncms.com%2fimg%2fphotos%2f2017%2f08%2f29%2fLOS_ADOLESCENTES_t750x550.jpg%3fd885fc46c41745b3b5de550c70336c1b382931d2&ehk=UEpi3XRNu6bCXfYNU5BJ2OIe7H9VL2pDqRHICrXIfKk%3d&risl=&pid=ImgRaw&r=0" width="300" height="300"> </button>
+ 
+ <h2> Algunos de sus éxitos </h2>
+ 
+<table border=1>
+<tr>
+<th> Cantantes  </th><th> Origen </th><th>Canción</th>
+<tr>
+<td>Fruko y sus Tesos <BR> </td> <td> El nombre proviene de que a su fundador, Julio Ernesto Estrada Rincón le decían Fruko por su parecido con un personaje de un anuncio de conservas que decía: "La salsa de tomate Fruco (nombre original del producto)... el secreto del sabor". El término “teso” se deriva de la palabra tesón, y se usa para designar, en el lenguaje callejero y popular del país al destacado, al mejor, al que más sabe. <br> </td> </td>
+<td><a href="https://www.youtube.com/watch?v=FN5oLBXiNvM">El preso</a></td> 
+</tr>
+<tr>
+<td> Joe Arroyo</td><td> Álvaro José Arroyo González (Cartagena de Indias, 1 de noviembre de 1955-Barranquilla, 26 de julio de 2011),más conocido como Joe Arroyo, fue un cantante y compositor colombiano de música salsa y tropical. Es considerado como uno de los grandes intérpretes de música de Colombia.
+Ganó múltiples discos de oro a lo largo de su carrera; entre ellos, dieciocho congos de oro y cuatro super congos en el festival de Orquestas del Carnaval de Barranquilla. 
+</td>
+<td><a href="https://www.youtube.com/watch?v=rT60GHWZR2U">Sabre olvidar</a></td> 
+</tr>
+
+ <tr> <td> Orquesta Guayacán </td><td> Guayacán Orquesta es una orquesta de salsa colombiana, fundada en Bogotá, Colombia por razones de mayor facilidad en la época de crear una agrupación, después se radicaron en Cali ciudad de la orquesta. Es dirigida musicalmente por Alexis Lozano, arreglista y productor, quien además ejecuta varios instrumentos musicales de la familia de las cuerdas y de viento..</td></td><th>
+ <a href="https://www.youtube.com/watch?v=SKAYZCsOk5U"cuando hablan las miradas>cuando hablan las miradas</a></td>
+ </tr>
+ <td>Galy Galiano <BR> </td> <td> Carmelo Galiano Cotes (Chiriguaná, 10 de febrero de 1958), más conocido artísticamente como Galy Galiano, es un escritor y cantautor colombiano de música romántica, ranchera y tropical. Fue el primer artista colombiano en aparecer en el listado musical estadounidense BillBoard, colocando tres canciones al mismo tiempo en la prestigiosa lista. <br> </td> </td>
+<td> <a href="https://www.youtube.com/watch?v=h87tiHTuxc8"> La Cita</a></td>
+</tr>
+
+ </table>
+ 
+
+ 
+ <p> <H2> Al mal Tiempo buena Salsa</h2> </p>
+ <p> <H2> Salsa para el alma </h2> </p>
+ 
+ <video  width=320  height=240 controls>
+ <source src="uno_se_cura.mp4" type="video/mp4">
+ </video >
+ <br> <br>
+ 
+ 
+ <form action="/my-handling-form-page" method="post">
+    <li>
+      <label for="name">Canción Favorita</label>
+      <input type="text" id="name" name="user_name" />
+    </li>
+<li>
+      <label for="mail">Cantante Favorito :</label>
+      <input type="email" id="mail" name="user_email" />
+    </li>
+    <li>
+      <label for="mail">Correo:</label>
+      <input type="email" id="mail" name="user_email" />
+    </li>
+    <li>
+      <label for="msg">Sugerencias :</label>
+      <textarea id="msg" name="user_message"></textarea>
+    </li>
+    <button type="submit">Enviar</button>
+</form>
+<footer>
+  <center>
+  <p> Derechos de autor © 2023 Daniela Tamayo Cano </p>
+</center>
+</footer>
+</body>
+</head>
+</html>
